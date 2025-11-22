@@ -17,19 +17,19 @@ const certifications: Certificate[] = [
     issuer: "Coursera",
     title: "Machine Learning Specialization",
     description: "A deep dive into machine learning from Stanford University, covering everything from linear regression to neural networks.",
-    date: "Dated this year 2023",
+    date: "Dated this year 2025",
   },
   {
-    issuer: "freeCodeCamp",
-    title: "Responsive Web Design",
-    description: "Mastered HTML, CSS, Flexbox, Grid, and responsive design principles to build accessible and visually appealing websites.",
-    date: "Dated this year 2022",
+    issuer: "Oracle",
+    title: "Generative AI Professional",
+    description: "Recognizing proficiency in Large Language Models, RAG, semantic search, and OCI GenAI Services.",
+    date: "Dated this year 2025",
   },
   {
     issuer: "HackerRank",
     title: "Problem Solving (Advanced)",
     description: "Achieved an advanced rating in competitive programming, solving complex algorithmic challenges.",
-    date: "Dated this year 2023",
+    date: "Dated this year 2025",
   },
 ];
 
