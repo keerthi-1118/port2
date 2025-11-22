@@ -1,9 +1,9 @@
 import { Navigation } from "@/components/Navigation";
 import { HeroSection } from "@/components/HeroSection";
-import { AboutSection } from "@/components/AboutSection";
-import { ExperienceSection } from "@/components/ExperienceSection";
+import {AboutSection} from "@/components/AboutSection";
+import {ExperienceSection} from "@/components/ExperienceSection";
 import { SkillsSection } from "@/components/SkillsSection";
-import  CertificationsSection from "@/components/CertificationsSection";
+import CertificationsSection from "@/components/CertificationsSection";
 import { ContactSection } from "@/components/ContactSection";
 import parchmentTextureT from '@/assets/parchment-textureT.jpg';
 import parchmentTextureM from '@/assets/parchment-textureM.jpg';

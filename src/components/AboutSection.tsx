@@ -5,6 +5,7 @@ import { useRef } from "react";
 import keer from "@/assets/keer.jpg";
 import contentBg from "@/assets/Content4.png";
 import designImg from "@/assets/design.png";
+import resume from "@/assets/resume.png";
 import { Button } from "./ui/button";
 import { FileText } from "lucide-react";
 
@@ -103,6 +104,7 @@ export const AboutSection = () => {
                     variant="default"
                     size="lg"
                     className="font-body gap-2 shadow-[var(--shadow-paper)] hover:shadow-[var(--shadow-lifted)] transition-all duration-500"
+                    onClick={() => window.open(resume, '_blank')}
                   >
                     <FileText className="w-5 h-5" />
                     View Resume

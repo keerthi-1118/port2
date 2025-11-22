@@ -135,7 +135,7 @@ const skillCategories: SkillCategory[] = [
   },
   {
     category: "Databases",
-    skills: ["MongoDB", "MySQL"],
+    skills: ["MongoDB", "MySQL","PHP"],
     icon: "🗄",
   },
   {

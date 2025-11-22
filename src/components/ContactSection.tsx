@@ -25,9 +25,9 @@ export const ContactSection = () => {
   };
 
   const socialLinks = [
-    { icon: Mail, label: "Email", href: "mailto:keerthitadikonda52@gmail.com" },
+    { icon: Mail, label: "Email", href: "mailto:keerthitadikonda62@gmail.com" },
     { icon: Github, label: "GitHub", href: "https://github.com/keerthi-1118" },
-    { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/keerthi" },
+    { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/tadikonda-keerthi/" },
     { icon: Phone, label: "Phone", href: "tel:+919515446934" },
   ];
 
