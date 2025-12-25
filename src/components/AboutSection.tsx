@@ -129,10 +129,11 @@ export const AboutSection = () => {
                 <div className="absolute inset-0 flex flex-col justify-center items-center">
                   <div className="w-3/4 text-center">
                     <p className="font-body text-base md:text-lg leading-relaxed mb-8 text-[#FEFEDA] font-semibold">
-                    Full-stack development enthusiast with a secondary focus in finance, currently pursuing B.Tech CSE at SRM University–AP. I explore AI/ML, IoT, and DevOps with a curiosity-driven approach, focusing on building simple, meaningful, and user-centered solutions.
+                    Full-stack development enthusiast with a secondary focus in finance, currently pursuing B.Tech CSE(3rd year) at SRM University–AP.     I explore AI/ML, IoT, and DevOps with a curiosity-driven approach, focusing on building simple, meaningful, and user-centered solutions.
                     </p>
                     <p className="font-body text-base md:text-lg leading-relaxed text-[#FEFEDA] font-semibold">
-                    I bring adaptability, continuous learning, and clarity to every project, aiming to create work that is practical and impactful.
+                    I bring adaptability, continuous learning, and clarity to every project, aiming to create   
+                     work that is practical and impactful.
                     </p>
                   </div>
                   <motion.div
