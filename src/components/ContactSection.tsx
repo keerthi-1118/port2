@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef, useState } from "react";
-import { Mail, Github, Linkedin, Send, Phone } from "lucide-react";
+import { Mail, Github, Linkedin, Send } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -28,7 +28,6 @@ export const ContactSection = () => {
     { icon: Mail, label: "Email", href: "mailto:keerthitadikonda62@gmail.com" },
     { icon: Github, label: "GitHub", href: "https://github.com/keerthi-1118" },
     { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/tadikonda-keerthi/" },
-    { icon: Phone, label: "Phone", href: "tel:+919515446934" },
   ];
 
   return (

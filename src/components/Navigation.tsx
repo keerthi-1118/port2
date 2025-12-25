@@ -61,8 +61,7 @@ export const Navigation = () => {
               whileHover={{ scale: 1.05 }}
               className="font-signature text-3xl text-accent cursor-pointer"
               onClick={() => handleClick("#hero")}
-            >
-              The Burnt Letter
+            >Keerthi's Portfolio
             </motion.div>
 
             {/* Desktop Menu */}
