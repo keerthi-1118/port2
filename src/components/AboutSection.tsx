@@ -126,7 +126,7 @@ export const AboutSection = () => {
                   alt="Scroll background"
                   className="w-full h-auto"
                 />
-                <div className="absolute inset-0 flex flex-col justify-center items-center p-4">
+                <div className="absolute inset-0 flex flex-col justify-center items-center py-4 px-10">
                   <div className="w-full md:w-3/4 text-center">
                     <p className="font-body text-sm md:text-lg leading-relaxed mb-4 md:mb-8 text-[#FEFEDA] font-semibold">
                     Full-stack development enthusiast with a secondary focus in finance, currently pursuing B.Tech CSE(3rd year) at SRM University–AP.     I explore AI/ML, IoT, and DevOps with a curiosity-driven approach, focusing on building simple, meaningful, and user-centered solutions.
